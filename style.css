@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    
+}
+h1{
+    margin-left: 0px;
+    font-family: "Rajdhani", sans-serif;
+    font-style: normal;  
+    font-size: 30px;
+}
+.top{
+    background-color:cadetblue;
+    height: 607px;
+    text-align: center;
+}
+.middle{
+     background-color : cornflowerblue;
+     height: 607px;
+     text-align: center;
+}
+.bottom{ 
+   background-color:#7FA1C3;
+    height: 607px;  
+    text-align: center;
+    margin-top: -20px;
+    
+}
+.web{
+    text-decoration: underline;
+}
+.underh1{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+}
+.my-pic{
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    margin-top: 5px;
+}
+.desc{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+}
+.skills{
+    width: 200px;
+    height: 200px;
+    margin-right:1090px;
+}
+.myskillsdesc{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-size: 20px;
+    margin-right: 1140px;
+
+}
+.skillsmentioned{
+    margin-right: 1140px;
+}
+.gmaillogo{
+    height: 150px;
+    width: 150px;
+    margin-right: 1090px;
+}
+.footer{
+    height: 20px;
+    width: 1348px;
+    background-color: blue;
+}
+
